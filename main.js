@@ -6,8 +6,8 @@ const guildId = ''; // id serveur
 const message = ''; // msg
 const capmonsterToken = ''; // token capmonster
 const proxyConfig = {
-  host: 'your-proxy-host',
-  port: your-proxy-port,
+  host: '', // proxy host
+  port: , // proxy port
   auth: {
     username: '', // proxy username
     password: '' // proxy password
