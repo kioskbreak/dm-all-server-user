@@ -1,2 +1,2 @@
-# dm-all-server-user
- a script to dm all a server using one or more user tokens!
+don't forget to fill in the entire top of the script
+if u have a problem or a question add on dc : kioskbreak
